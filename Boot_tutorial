@@ -1,0 +1,25 @@
+Para tener linux tenés dos opciones, o al menos yo conozco dos: 
+
+1) Tener una virtual machine. Esto significa que podés tener una “compu” con linux adentro de windows, que la abrís como un programa más. Nunca lo hice, pero sé que no es dificil. 
+
+2) Partir el disco y tener sistemas operativos diferentes en paralelo. Al prender la compu, vos elegís a qué sistema vas a parar. Esto es lo que yo hice y sé hacer. Tiene la ventaja sobre (1) que podés usar todo el potencial de la compu. Lo otro, como corre como un programa, tiene menos acceso a RAM y eso porque tiene que, en paralelo, correr toda la funcionalidad de Windows.  Para seguir (2) tenés que...
+
+ a) Ir a Rufus (https://rufus.ie/) y descargar el programa ese.
+b) Ir a Ubuntu (https://ubuntu.com/download/desktop) y descargar alguna versión de ahí. Se baja lo que se llama la “imagen” del SO. 
+c) Tener un pendrive vacío y enchufarlo a la PC. 
+d) Abrir Rufus. Te va a pedir que elijas el pendrive (c), el “arranque” (b) y todo lo demás yo lo dejé siempre por defecto. Darle “EMPEZAR”.
+
+Una vez que hiciste eso tenés un pendrive “booteable” con el Linux adentro.  A esta altura, te recomiendo hacer un backup de lo que necesites del Windows. Si bien no debería pasar nada, vas a partir el disco en dos y puede eventualmente pasar algo. 
+
+Ahora tenés que bootear. Para eso:
+
+e) Apagá la compu. 
+
+f) Prendela y estate atento al primer cartel que aparece. Con F2, F12, F8 o alguna otra (varía) debería darte opciones de booteo. Te vas a dar cuenta. Tocá rápido, te da 1-2 segundos. 
+
+g) Acá vas a tener que elegir de dónde bootear. Como tu Linux está en el pendrive, vas a elegir el pendrive. Lo reconoce porque lo hiciste “booteable” antes. 
+
+h) Cuando arranque, ya es como un tutorial cualquiera. Le decís cuanto disco le querés dar a Linux (depende de cuánto tengas total y en uso por Windows) y le das a instalar después de un par de settings de idioma y similares. 
+
+Cualquier cosa decime.
+
